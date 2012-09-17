@@ -1,0 +1,26 @@
+{
+  "author": "Advatar <johan@sellstrom.me>",
+  "name": "Prospects",
+  "description": "Prospects Connector",
+  "version": "0.0.1",
+  "repository": {
+    "title": "Prospects",
+    "handle": "locker-prospects",
+    "author": "advatar",
+    "update": "auto",
+    "status":"unstable",
+    "github": "https://github.com/advatar/locker-prospects",
+    "url": "https://github.com/advatar/locker-prospects",
+    "type": "connector",
+    "static": "false",
+    "oauthSize": {
+      "width": 1000,
+      "height": 1000
+    }
+  },
+  "engines": {
+    "node": ">=0.4.9"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

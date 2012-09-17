@@ -1,4 +1,4 @@
-locker-prospects
-================
+recruit
+=======
 
-Connector to a Prospects database
+Connector for our fake Recruit CV system
